@@ -1,1 +1,1 @@
-# Food-image-to-recipe-generator
+# RecipeNet
