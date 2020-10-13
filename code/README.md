@@ -8,7 +8,7 @@ screenshots of how a working user interaction with the User file looks like.
 
 The user is able to input the file path, the number of closest recipes he/she would like to see, as well as which CNN model to run and which similarity measure to implement (cosine similarity or euclidean distance).
 
-![alt text](https://raw.githubusercontent.com/dorianrm/RecipeNet/master/code/user1.png)
+![alt text](https://raw.githubusercontent.com/dorianrm/RecipeNet/code/user1.png)
 
 ![alt text](https://raw.githubusercontent.com/slu1212/cs230/master/user2.png)
 
