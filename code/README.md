@@ -1,4 +1,4 @@
-# cs230
+# RecipeNet
 
 Above are the python files and jupyter notebooks that we used during our project, without the original Recipe 1M dataset and the generated encodings for the images (there were too many files to copy over). 
 
@@ -8,7 +8,7 @@ screenshots of how a working user interaction with the User file looks like.
 
 The user is able to input the file path, the number of closest recipes he/she would like to see, as well as which CNN model to run and which similarity measure to implement (cosine similarity or euclidean distance).
 
-![alt text](https://raw.githubusercontent.com/slu1212/cs230/master/user1.png)
+![alt text](https://raw.githubusercontent.com/dorianrm/RecipeNet/master/code/user1.png)
 
 ![alt text](https://raw.githubusercontent.com/slu1212/cs230/master/user2.png)
 
